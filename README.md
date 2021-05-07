@@ -16,9 +16,10 @@ the borders of the window are the primary obstacles.
 2. Simple interface (UP, DOWN, LEFT and RIGHT Keys) to control the snake.<br/>
 3. Incrementing speed with score.<br/>
 4. Total 10 levels of speed in terms of frames per second(FPS).<br/>
-5. Can restart the game using SPACEBAR after the game is over.<br/>
+5. Randomly generated snacks.<br/>
+6. Restarting the game using SPACEBAR after the game is over.<br/>
 
 ## Requirements
 
 Python3<br/>
-Pygame Module
+Pygame Module<br/>
