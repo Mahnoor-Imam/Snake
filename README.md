@@ -1,8 +1,6 @@
 # Snake Game in python using pygame module
 
-This program is a simple replica of the well-known game 'Snake', in which the player maneuvers<br/>
-a line(snake) which grows in length each time it captures a snack and the line itself along with<br/>
-the borders of the window are the primary obstacles.
+This program is a simple replica of the well-known game 'Snake', in which the player maneuvers a line(snake) which grows in length each time it captures a snack and the line itself along with the borders of the window are the primary obstacles.
 
 ## A look into the game
 
